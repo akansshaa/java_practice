@@ -1,0 +1,11 @@
+package com.examples.Array;
+class ArrayToString {
+    public static void main(String[] args) {
+        String[] arr = new String[] {"hello", "my","name","is","akansha."};
+        StringBuilder sb = new StringBuilder();
+        for(String str: arr){
+            sb.append(str).append(" ");
+        }
+        System.out.println(sb);
+    }
+}
