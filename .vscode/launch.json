@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintOddNums",
+            "request": "launch",
+            "mainClass": "com.examples.FunctionalProgramming.PrintOddNums",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "FilterLength",
+            "request": "launch",
+            "mainClass": "com.examples.FunctionalProgramming.FilterLength",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "TestingFactorial",
+            "request": "launch",
+            "mainClass": "com.examples.Executor.TestingFactorial",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPool",
+            "request": "launch",
+            "mainClass": "com.examples.Executor.ThreadPool",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "PrintNum",
+            "request": "launch",
+            "mainClass": "com.examples.Executor.PrintNum",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "TrafficSignal",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.TrafficSignal",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "PrintinOrder",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.PrintinOrder",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "PrintStates",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.PrintStates",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "Synchronized",
+            "request": "launch",
+            "mainClass": "com.examples.SynchronizeExample.Synchronized",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "Synchronized",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.Synchronized",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "SingleThread",
+            "request": "launch",
+            "mainClass": "com.examples.Executor.SingleThread",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPrint",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.ThreadPrint",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "RunnableThread",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.RunnableThread",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "com.examples.MultiThreading.example",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "getCapital",
+            "request": "launch",
+            "mainClass": "com.examples.Collection.getCapital",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "DaysExample",
+            "request": "launch",
+            "mainClass": "com.examples.Collection.DaysExample",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "testShapes",
+            "request": "launch",
+            "mainClass": "com.examples.challengeAbstraction.testShapes",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOperations",
+            "request": "launch",
+            "mainClass": "com.examples.nestedClasses.ArrayOperations",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "testinheritance",
+            "request": "launch",
+            "mainClass": "com.examples.challengeInheritance.testinheritance",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "employeeDetails",
+            "request": "launch",
+            "mainClass": "com.examples.challenge101.challenge2.employeeDetails",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "user",
+            "request": "launch",
+            "mainClass": "com.examples.challenge101.user",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "bankAccount",
+            "request": "launch",
+            "mainClass": "bankAccount",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "com.example.utils.calculator",
+            "projectName": "java_b36fc2c7"
+        },
+        {
+            "type": "java",
             "name": "concatTwo",
             "request": "launch",
             "mainClass": "concatTwo",
